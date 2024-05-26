@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sithum Senanayake</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22305282" alt="it22305282" /></a> </p>
-
 - 🌱 I’m currently learning **as an undergraduate in SLIIT**
 
-- 💬 Ask me about **MERN,Kotlin**
+- 💬 Ask me about **programming**
 
 - 📫 How to reach me **nirmansenanayake@gmail.com**
 
