@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **as an undergraduate in SLIIT**
 
-- 💬 Ask me about **programming**
-
 - 📫 How to reach me **nirmansenanayake@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
