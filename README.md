@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning **as an undergraduate in SLIIT**
 
 - 📫 How to reach me **nirmansenanayake@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum-senanayake&show_icons=true&locale=en&layout=compact" alt="it22305282" /></p>
